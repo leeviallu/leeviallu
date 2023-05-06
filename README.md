@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently completing Full Stack open<br>🎯 Goals: <br>-Finish building a large web app</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently completing Full Stack open<br>🎯 Goals: <ul><li>-Finish building a large web app</li></ul></p>
 
 ###
 
@@ -30,5 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/leeviallu/leeviallu/output/snake.svg" alt="Snake animation" />
 
 ###
