@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently completing Full Stack open<br>🎯 Goals: <br>-Building a large web app by myself</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently completing Full Stack open<br>🎯 Goals: <br>-Finish building a large web app</p>
 
 ###
 
