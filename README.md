@@ -13,7 +13,6 @@
 <p align="left">✨ Creating bugs since 2018<br>📚 I'm studying Computer Sciences in University of Eastern Finland.<br>🎯 Goals: 
 <ul>
   <li>Complete Full Stack open</li>
-  <li>Finish building a large web app</li>
 </ul></p>
 
 ###
