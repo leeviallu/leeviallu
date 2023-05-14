@@ -35,3 +35,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/leeviallu/leeviallu/output/snake.svg" alt="Snake animation" />
+
+###
