@@ -10,9 +10,9 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm studying Computer Sciences in University of Eastern Finland.<br>🎯 Goals: 
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm studying Computer Sciences in University of Eastern Finland.<br>🎯 Current projects: 
 <ul>
-  <li>Complete Full Stack open</li>
+  <li>Completing Full Stack open <br> estimated finish in August</li>
 </ul></p>
 
 ###
