@@ -10,10 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018.<br>📚 I'm studying Computer Sciences in University of Eastern Finland.<br>🎯 Current projects: 
-<ul>
-  <li>Full Stack open</li>
-</ul></p>
+<p align="left">✨ Creating bugs since 2018.<br>📚 I'm studying Computer Sciences in University of Eastern Finland.</p>
 
 ###
 
