@@ -32,9 +32,3 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="c++ logo"  />
   
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/leeviallu/leeviallu/output/snake.svg" alt="Snake animation" />
-
-###
