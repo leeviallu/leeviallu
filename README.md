@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Leevi and I'm a Full Stack Web Developer, from Finland.</p>
+<p align="left">My name is Leevi and I'm a Full Stack Developer, from Finland.</p>
 
 ###
 
