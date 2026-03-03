@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018.<br>📚 I'm studying Computer Sciences in University of Eastern Finland.</p>
+<p align="left">✨ Creating bugs since 2018.<br>📚 I'm studying Information and Software Engineering in University of Jyväskylä.</p>
 
 ###
 
